@@ -1,0 +1,9 @@
+Triangulator
+
+Author: Tibor Nagy
+
+Simple C# project to test triangulation algorithms.
+Usage: Left click to add new point to the polygon.
+Right click -> Close polygon will finish the drawing.
+Choose triangulation algorithm from the Tesselate menu.
+
